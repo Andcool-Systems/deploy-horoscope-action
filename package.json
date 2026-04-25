@@ -1,0 +1,7 @@
+{
+    "name": "deploy-horoscope-action",
+    "type": "module",
+    "dependencies": {
+        "@actions/core": "^1.10.0"
+    }
+}

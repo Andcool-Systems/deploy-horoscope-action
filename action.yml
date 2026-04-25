@@ -1,0 +1,11 @@
+name: "Deploy Horoscope Gate"
+description: "Blocks deploy if horoscope says no"
+
+inputs:
+  zodiac:
+    description: "Your zodiac sign (e.g. aries)"
+    required: true
+
+runs:
+  using: "node20"
+  main: "index.js"

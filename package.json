@@ -3,5 +3,8 @@
     "type": "module",
     "dependencies": {
         "@actions/core": "^1.10.0"
+    },
+    "devDependencies": {
+        "@vercel/ncc": "^0.38.4"
     }
 }

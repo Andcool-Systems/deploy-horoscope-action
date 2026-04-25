@@ -78,12 +78,5 @@ This action will randomly block your deploys based on an external API and celest
 If your production goes down because of this —
 the stars warned you.
 
-## 🛠️ Development
-
-```bash
-git clone https://github.com/Andcool-Systems/deploy-horoscope-action
-```
-
 ---
-
-**created by AndcoolSystems**
+**Created by AndcoolSystems with ❤, 25 April, 2026**

@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: 🔮 Horoscope gate
-        uses: Andcool-Systems/deploy-horoscope-action@v1
+        uses: Andcool-Systems/deploy-horoscope-action@v1.1
         with:
           zodiac: virgo
 
